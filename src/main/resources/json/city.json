@@ -1,0 +1,2946 @@
+[
+	{
+		"id" : 110100,
+		"name" : "北京",
+		"areaCode" : "010",
+		"provinceId" : 110000,
+		"isCapital" : 1,
+		"initial" : "B"
+	},
+	{
+		"id" : 120100,
+		"name" : "天津",
+		"areaCode" : "022",
+		"provinceId" : 120000,
+		"isCapital" : 1,
+		"initial" : "T"
+	},
+	{
+		"id" : 130100,
+		"name" : "石家庄",
+		"areaCode" : "0311",
+		"provinceId" : 130000,
+		"isCapital" : 1,
+		"initial" : "S"
+	},
+	{
+		"id" : 130200,
+		"name" : "唐山",
+		"areaCode" : "0315",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 130300,
+		"name" : "秦皇岛",
+		"areaCode" : "0335",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 130400,
+		"name" : "邯郸",
+		"areaCode" : "0310",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 130500,
+		"name" : "邢台",
+		"areaCode" : "0319",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 130600,
+		"name" : "保定",
+		"areaCode" : "0312",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 130700,
+		"name" : "张家口",
+		"areaCode" : "0313",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 130800,
+		"name" : "承德",
+		"areaCode" : "0314",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 130900,
+		"name" : "沧州",
+		"areaCode" : "0317",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 131000,
+		"name" : "廊坊",
+		"areaCode" : "0316",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 131100,
+		"name" : "衡水",
+		"areaCode" : "0318",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 139001,
+		"name" : "定州",
+		"areaCode" : "0312",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 139002,
+		"name" : "辛集",
+		"areaCode" : "0311",
+		"provinceId" : 130000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 140100,
+		"name" : "太原",
+		"areaCode" : "0351",
+		"provinceId" : 140000,
+		"isCapital" : 1,
+		"initial" : "T"
+	},
+	{
+		"id" : 140200,
+		"name" : "大同",
+		"areaCode" : "0352",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 140300,
+		"name" : "阳泉",
+		"areaCode" : "0353",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 140400,
+		"name" : "长治",
+		"areaCode" : "0355",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 140500,
+		"name" : "晋城",
+		"areaCode" : "0356",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 140600,
+		"name" : "朔州",
+		"areaCode" : "0349",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 140700,
+		"name" : "晋中",
+		"areaCode" : "0354",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 140800,
+		"name" : "运城",
+		"areaCode" : "0359",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 140900,
+		"name" : "忻州",
+		"areaCode" : "0350",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 141000,
+		"name" : "临汾",
+		"areaCode" : "0357",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 141100,
+		"name" : "吕梁",
+		"areaCode" : "0358",
+		"provinceId" : 140000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 150100,
+		"name" : "呼和浩特",
+		"areaCode" : "0471",
+		"provinceId" : 150000,
+		"isCapital" : 1,
+		"initial" : "H"
+	},
+	{
+		"id" : 150200,
+		"name" : "包头",
+		"areaCode" : "0472",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 150300,
+		"name" : "乌海",
+		"areaCode" : "0473",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 150400,
+		"name" : "赤峰",
+		"areaCode" : "0476",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 150500,
+		"name" : "通辽",
+		"areaCode" : "0475",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 150600,
+		"name" : "鄂尔多斯",
+		"areaCode" : "0477",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "E"
+	},
+	{
+		"id" : 150700,
+		"name" : "呼伦贝尔",
+		"areaCode" : "0470",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 150800,
+		"name" : "巴彦淖尔",
+		"areaCode" : "0478",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 150900,
+		"name" : "乌兰察布",
+		"areaCode" : "0474",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 152200,
+		"name" : "兴安",
+		"areaCode" : "0482",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 152500,
+		"name" : "锡林郭勒",
+		"areaCode" : "0479",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 152900,
+		"name" : "阿拉善",
+		"areaCode" : "0483",
+		"provinceId" : 150000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 210100,
+		"name" : "沈阳",
+		"areaCode" : "024",
+		"provinceId" : 210000,
+		"isCapital" : 1,
+		"initial" : "S"
+	},
+	{
+		"id" : 210200,
+		"name" : "大连",
+		"areaCode" : "0411",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 210300,
+		"name" : "鞍山",
+		"areaCode" : "0412",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 210400,
+		"name" : "抚顺",
+		"areaCode" : "024",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "F"
+	},
+	{
+		"id" : 210500,
+		"name" : "本溪",
+		"areaCode" : "0414",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 210600,
+		"name" : "丹东",
+		"areaCode" : "0415",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 210700,
+		"name" : "锦州",
+		"areaCode" : "0416",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 210800,
+		"name" : "营口",
+		"areaCode" : "0417",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 210900,
+		"name" : "阜新",
+		"areaCode" : "0418",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "F"
+	},
+	{
+		"id" : 211000,
+		"name" : "辽阳",
+		"areaCode" : "0419",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 211100,
+		"name" : "盘锦",
+		"areaCode" : "0427",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 211200,
+		"name" : "铁岭",
+		"areaCode" : "024",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 211300,
+		"name" : "朝阳",
+		"areaCode" : "0421",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 211400,
+		"name" : "葫芦岛",
+		"areaCode" : "0429",
+		"provinceId" : 210000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 220100,
+		"name" : "长春",
+		"areaCode" : "0431",
+		"provinceId" : 220000,
+		"isCapital" : 1,
+		"initial" : "C"
+	},
+	{
+		"id" : 220200,
+		"name" : "吉林",
+		"areaCode" : "0432",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 220300,
+		"name" : "四平",
+		"areaCode" : "0434",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 220400,
+		"name" : "辽源",
+		"areaCode" : "0437",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 220500,
+		"name" : "通化",
+		"areaCode" : "0435",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 220600,
+		"name" : "白山",
+		"areaCode" : "0439",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 220700,
+		"name" : "松原",
+		"areaCode" : "0438",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 220800,
+		"name" : "白城",
+		"areaCode" : "0436",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 222400,
+		"name" : "延边",
+		"areaCode" : "0433",
+		"provinceId" : 220000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 230100,
+		"name" : "哈尔滨",
+		"areaCode" : "0451",
+		"provinceId" : 230000,
+		"isCapital" : 1,
+		"initial" : "H"
+	},
+	{
+		"id" : 230200,
+		"name" : "齐齐哈尔",
+		"areaCode" : "0452",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 230300,
+		"name" : "鸡西",
+		"areaCode" : "0467",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 230400,
+		"name" : "鹤岗",
+		"areaCode" : "0468",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 230500,
+		"name" : "双鸭山",
+		"areaCode" : "0469",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 230600,
+		"name" : "大庆",
+		"areaCode" : "0459",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 230700,
+		"name" : "伊春",
+		"areaCode" : "0458",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 230800,
+		"name" : "佳木斯",
+		"areaCode" : "0454",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 230900,
+		"name" : "七台河",
+		"areaCode" : "0464",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 231000,
+		"name" : "牡丹江",
+		"areaCode" : "0453",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "M"
+	},
+	{
+		"id" : 231100,
+		"name" : "黑河",
+		"areaCode" : "0456",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 231200,
+		"name" : "绥化",
+		"areaCode" : "0455",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 232700,
+		"name" : "大兴安岭",
+		"areaCode" : "0457",
+		"provinceId" : 230000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 310100,
+		"name" : "上海",
+		"areaCode" : "021",
+		"provinceId" : 310000,
+		"isCapital" : 1,
+		"initial" : "S"
+	},
+	{
+		"id" : 320100,
+		"name" : "南京",
+		"areaCode" : "025",
+		"provinceId" : 320000,
+		"isCapital" : 1,
+		"initial" : "N"
+	},
+	{
+		"id" : 320200,
+		"name" : "无锡",
+		"areaCode" : "0510",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 320300,
+		"name" : "徐州",
+		"areaCode" : "0516",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 320400,
+		"name" : "常州",
+		"areaCode" : "0519",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 320500,
+		"name" : "苏州",
+		"areaCode" : "0512",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 320600,
+		"name" : "南通",
+		"areaCode" : "0513",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 320700,
+		"name" : "连云港",
+		"areaCode" : "0518",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 320800,
+		"name" : "淮安",
+		"areaCode" : "0517",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 320900,
+		"name" : "盐城",
+		"areaCode" : "0515",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 321000,
+		"name" : "扬州",
+		"areaCode" : "0514",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 321100,
+		"name" : "镇江",
+		"areaCode" : "0511",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 321200,
+		"name" : "泰州",
+		"areaCode" : "0523",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 321300,
+		"name" : "宿迁",
+		"areaCode" : "0527",
+		"provinceId" : 320000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 330100,
+		"name" : "杭州",
+		"areaCode" : "0571",
+		"provinceId" : 330000,
+		"isCapital" : 1,
+		"initial" : "H"
+	},
+	{
+		"id" : 330200,
+		"name" : "宁波",
+		"areaCode" : "0574",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 330300,
+		"name" : "温州",
+		"areaCode" : "0577",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 330400,
+		"name" : "嘉兴",
+		"areaCode" : "0573",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 330500,
+		"name" : "湖州",
+		"areaCode" : "0572",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 330600,
+		"name" : "绍兴",
+		"areaCode" : "0575",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 330700,
+		"name" : "金华",
+		"areaCode" : "0579",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 330800,
+		"name" : "衢州",
+		"areaCode" : "0570",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 330900,
+		"name" : "舟山",
+		"areaCode" : "0580",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 331000,
+		"name" : "台州",
+		"areaCode" : "0576",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 331100,
+		"name" : "丽水",
+		"areaCode" : "0578",
+		"provinceId" : 330000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 340100,
+		"name" : "合肥",
+		"areaCode" : "0551",
+		"provinceId" : 340000,
+		"isCapital" : 1,
+		"initial" : "H"
+	},
+	{
+		"id" : 340200,
+		"name" : "芜湖",
+		"areaCode" : "0553",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 340300,
+		"name" : "蚌埠",
+		"areaCode" : "0552",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 340400,
+		"name" : "淮南",
+		"areaCode" : "0554",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 340500,
+		"name" : "马鞍山",
+		"areaCode" : "0555",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "M"
+	},
+	{
+		"id" : 340600,
+		"name" : "淮北",
+		"areaCode" : "0561",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 340700,
+		"name" : "铜陵",
+		"areaCode" : "0562",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 340800,
+		"name" : "安庆",
+		"areaCode" : "0556",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 341000,
+		"name" : "黄山",
+		"areaCode" : "0559",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 341100,
+		"name" : "滁州",
+		"areaCode" : "0550",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 341200,
+		"name" : "阜阳",
+		"areaCode" : "0558",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "F"
+	},
+	{
+		"id" : 341300,
+		"name" : "宿州",
+		"areaCode" : "0557",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 341500,
+		"name" : "六安",
+		"areaCode" : "0564",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 341600,
+		"name" : "亳州",
+		"areaCode" : "0558",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 341700,
+		"name" : "池州",
+		"areaCode" : "0566",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 341800,
+		"name" : "宣城",
+		"areaCode" : "0563",
+		"provinceId" : 340000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 350100,
+		"name" : "福州",
+		"areaCode" : "0591",
+		"provinceId" : 350000,
+		"isCapital" : 1,
+		"initial" : "F"
+	},
+	{
+		"id" : 350200,
+		"name" : "厦门",
+		"areaCode" : "0592",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 350300,
+		"name" : "莆田",
+		"areaCode" : "0594",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 350400,
+		"name" : "三明",
+		"areaCode" : "0598",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 350500,
+		"name" : "泉州",
+		"areaCode" : "0595",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 350600,
+		"name" : "漳州",
+		"areaCode" : "0596",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 350700,
+		"name" : "南平",
+		"areaCode" : "0599",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 350800,
+		"name" : "龙岩",
+		"areaCode" : "0597",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 350900,
+		"name" : "宁德",
+		"areaCode" : "0593",
+		"provinceId" : 350000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 360100,
+		"name" : "南昌",
+		"areaCode" : "0791",
+		"provinceId" : 360000,
+		"isCapital" : 1,
+		"initial" : "N"
+	},
+	{
+		"id" : 360200,
+		"name" : "景德镇",
+		"areaCode" : "0798",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 360300,
+		"name" : "萍乡",
+		"areaCode" : "0799",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 360400,
+		"name" : "九江",
+		"areaCode" : "0792",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 360500,
+		"name" : "新余",
+		"areaCode" : "0790",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 360600,
+		"name" : "鹰潭",
+		"areaCode" : "0701",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 360700,
+		"name" : "赣州",
+		"areaCode" : "0797",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 360800,
+		"name" : "吉安",
+		"areaCode" : "0796",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 360900,
+		"name" : "宜春",
+		"areaCode" : "0795",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 361000,
+		"name" : "抚州",
+		"areaCode" : "0794",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "F"
+	},
+	{
+		"id" : 361100,
+		"name" : "上饶",
+		"areaCode" : "0793",
+		"provinceId" : 360000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 370100,
+		"name" : "济南",
+		"areaCode" : "0531",
+		"provinceId" : 370000,
+		"isCapital" : 1,
+		"initial" : "J"
+	},
+	{
+		"id" : 370200,
+		"name" : "青岛",
+		"areaCode" : "0532",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 370300,
+		"name" : "淄博",
+		"areaCode" : "0533",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 370400,
+		"name" : "枣庄",
+		"areaCode" : "0632",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 370500,
+		"name" : "东营",
+		"areaCode" : "0546",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 370600,
+		"name" : "烟台",
+		"areaCode" : "0535",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 370700,
+		"name" : "潍坊",
+		"areaCode" : "0536",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 370800,
+		"name" : "济宁",
+		"areaCode" : "0537",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 370900,
+		"name" : "泰安",
+		"areaCode" : "0538",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 371000,
+		"name" : "威海",
+		"areaCode" : "0631",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 371100,
+		"name" : "日照",
+		"areaCode" : "0633",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "R"
+	},
+	{
+		"id" : 371200,
+		"name" : "莱芜",
+		"areaCode" : "0634",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 371300,
+		"name" : "临沂",
+		"areaCode" : "0539",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 371400,
+		"name" : "德州",
+		"areaCode" : "0534",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 371500,
+		"name" : "聊城",
+		"areaCode" : "0635",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 371600,
+		"name" : "滨州",
+		"areaCode" : "0543",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 371700,
+		"name" : "菏泽",
+		"areaCode" : "0530",
+		"provinceId" : 370000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 410100,
+		"name" : "郑州",
+		"areaCode" : "0371",
+		"provinceId" : 410000,
+		"isCapital" : 1,
+		"initial" : "Z"
+	},
+	{
+		"id" : 410200,
+		"name" : "开封",
+		"areaCode" : "0371",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "K"
+	},
+	{
+		"id" : 410300,
+		"name" : "洛阳",
+		"areaCode" : "0379",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 410400,
+		"name" : "平顶山",
+		"areaCode" : "0375",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 410500,
+		"name" : "安阳",
+		"areaCode" : "0372",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 410600,
+		"name" : "鹤壁",
+		"areaCode" : "0392",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 410700,
+		"name" : "新乡",
+		"areaCode" : "0373",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 410800,
+		"name" : "焦作",
+		"areaCode" : "0391",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 410900,
+		"name" : "濮阳",
+		"areaCode" : "0393",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 411000,
+		"name" : "许昌",
+		"areaCode" : "0374",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 411100,
+		"name" : "漯河",
+		"areaCode" : "0395",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 411200,
+		"name" : "三门峡",
+		"areaCode" : "0398",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 411300,
+		"name" : "南阳",
+		"areaCode" : "0377",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 411400,
+		"name" : "商丘",
+		"areaCode" : "0370",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 411500,
+		"name" : "信阳",
+		"areaCode" : "0376",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 411600,
+		"name" : "周口",
+		"areaCode" : "0394",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 411700,
+		"name" : "驻马店",
+		"areaCode" : "0396",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 419001,
+		"name" : "济源",
+		"areaCode" : "0391",
+		"provinceId" : 410000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 420100,
+		"name" : "武汉",
+		"areaCode" : "027",
+		"provinceId" : 420000,
+		"isCapital" : 1,
+		"initial" : "W"
+	},
+	{
+		"id" : 420200,
+		"name" : "黄石",
+		"areaCode" : "0714",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 420300,
+		"name" : "十堰",
+		"areaCode" : "0719",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 420500,
+		"name" : "宜昌",
+		"areaCode" : "0717",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 420600,
+		"name" : "襄阳",
+		"areaCode" : "0710",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 420700,
+		"name" : "鄂州",
+		"areaCode" : "0711",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "E"
+	},
+	{
+		"id" : 420800,
+		"name" : "荆门",
+		"areaCode" : "0724",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 420900,
+		"name" : "孝感",
+		"areaCode" : "0712",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 421000,
+		"name" : "荆州",
+		"areaCode" : "0716",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 421100,
+		"name" : "黄冈",
+		"areaCode" : "0713",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 421200,
+		"name" : "咸宁",
+		"areaCode" : "0715",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 421300,
+		"name" : "随州",
+		"areaCode" : "0722",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 422800,
+		"name" : "恩施",
+		"areaCode" : "0718",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "E"
+	},
+	{
+		"id" : 429004,
+		"name" : "仙桃",
+		"areaCode" : "0728",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 429005,
+		"name" : "潜江",
+		"areaCode" : "0728",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 429006,
+		"name" : "天门",
+		"areaCode" : "0728",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 429021,
+		"name" : "神农架",
+		"areaCode" : "0719",
+		"provinceId" : 420000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 430100,
+		"name" : "长沙",
+		"areaCode" : "0731",
+		"provinceId" : 430000,
+		"isCapital" : 1,
+		"initial" : "C"
+	},
+	{
+		"id" : 430200,
+		"name" : "株洲",
+		"areaCode" : "0731",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 430300,
+		"name" : "湘潭",
+		"areaCode" : "0731",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 430400,
+		"name" : "衡阳",
+		"areaCode" : "0734",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 430500,
+		"name" : "邵阳",
+		"areaCode" : "0739",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 430600,
+		"name" : "岳阳",
+		"areaCode" : "0730",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 430700,
+		"name" : "常德",
+		"areaCode" : "0736",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 430800,
+		"name" : "张家界",
+		"areaCode" : "0744",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 430900,
+		"name" : "益阳",
+		"areaCode" : "0737",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 431000,
+		"name" : "郴州",
+		"areaCode" : "0735",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 431100,
+		"name" : "永州",
+		"areaCode" : "0746",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 431200,
+		"name" : "怀化",
+		"areaCode" : "0745",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 431300,
+		"name" : "娄底",
+		"areaCode" : "0738",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 433100,
+		"name" : "湘西",
+		"areaCode" : "0743",
+		"provinceId" : 430000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 440100,
+		"name" : "广州",
+		"areaCode" : "020",
+		"provinceId" : 440000,
+		"isCapital" : 1,
+		"initial" : "G"
+	},
+	{
+		"id" : 440200,
+		"name" : "韶关",
+		"areaCode" : "0751",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 440300,
+		"name" : "深圳",
+		"areaCode" : "0755",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 440400,
+		"name" : "珠海",
+		"areaCode" : "0756",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 440500,
+		"name" : "汕头",
+		"areaCode" : "0754",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 440600,
+		"name" : "佛山",
+		"areaCode" : "0757",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "F"
+	},
+	{
+		"id" : 440700,
+		"name" : "江门",
+		"areaCode" : "0750",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 440800,
+		"name" : "湛江",
+		"areaCode" : "0759",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 440900,
+		"name" : "茂名",
+		"areaCode" : "0668",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "M"
+	},
+	{
+		"id" : 441200,
+		"name" : "肇庆",
+		"areaCode" : "0758",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 441300,
+		"name" : "惠州",
+		"areaCode" : "0752",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 441400,
+		"name" : "梅州",
+		"areaCode" : "0753",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "M"
+	},
+	{
+		"id" : 441500,
+		"name" : "汕尾",
+		"areaCode" : "0660",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 441600,
+		"name" : "河源",
+		"areaCode" : "0762",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 441700,
+		"name" : "阳江",
+		"areaCode" : "0662",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 441800,
+		"name" : "清远",
+		"areaCode" : "0763",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 441900,
+		"name" : "东莞",
+		"areaCode" : "0769",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 442000,
+		"name" : "中山",
+		"areaCode" : "0760",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 445100,
+		"name" : "潮州",
+		"areaCode" : "0768",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 445200,
+		"name" : "揭阳",
+		"areaCode" : "0663",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 445300,
+		"name" : "云浮",
+		"areaCode" : "0766",
+		"provinceId" : 440000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 450100,
+		"name" : "南宁",
+		"areaCode" : "0771",
+		"provinceId" : 450000,
+		"isCapital" : 1,
+		"initial" : "N"
+	},
+	{
+		"id" : 450200,
+		"name" : "柳州",
+		"areaCode" : "0772",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 450300,
+		"name" : "桂林",
+		"areaCode" : "0773",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 450400,
+		"name" : "梧州",
+		"areaCode" : "0774",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 450500,
+		"name" : "北海",
+		"areaCode" : "0779",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 450600,
+		"name" : "防城港",
+		"areaCode" : "0770",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "F"
+	},
+	{
+		"id" : 450700,
+		"name" : "钦州",
+		"areaCode" : "0777",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 450800,
+		"name" : "贵港",
+		"areaCode" : "0775",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 450900,
+		"name" : "玉林",
+		"areaCode" : "0775",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 451000,
+		"name" : "百色",
+		"areaCode" : "0776",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 451100,
+		"name" : "贺州",
+		"areaCode" : "0774",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 451200,
+		"name" : "河池",
+		"areaCode" : "0778",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 451300,
+		"name" : "来宾",
+		"areaCode" : "0772",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 451400,
+		"name" : "崇左",
+		"areaCode" : "0771",
+		"provinceId" : 450000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 460100,
+		"name" : "海口",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 1,
+		"initial" : "H"
+	},
+	{
+		"id" : 460200,
+		"name" : "三亚",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 460300,
+		"name" : "三沙",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 460400,
+		"name" : "儋州",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 469001,
+		"name" : "五指山",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 469002,
+		"name" : "琼海",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 469005,
+		"name" : "文昌",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 469006,
+		"name" : "万宁",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 469007,
+		"name" : "东方",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 469021,
+		"name" : "定安",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 469022,
+		"name" : "屯昌",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 469023,
+		"name" : "澄迈",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 469024,
+		"name" : "临高",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 469025,
+		"name" : "白沙",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 469026,
+		"name" : "昌江",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 469027,
+		"name" : "乐东",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 469028,
+		"name" : "陵水",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 469029,
+		"name" : "保亭",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 469030,
+		"name" : "琼中",
+		"areaCode" : "0898",
+		"provinceId" : 460000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 500100,
+		"name" : "重庆",
+		"areaCode" : "023",
+		"provinceId" : 500000,
+		"isCapital" : 1,
+		"initial" : "C"
+	},
+	{
+		"id" : 510100,
+		"name" : "成都",
+		"areaCode" : "028",
+		"provinceId" : 510000,
+		"isCapital" : 1,
+		"initial" : "C"
+	},
+	{
+		"id" : 510300,
+		"name" : "自贡",
+		"areaCode" : "0813",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 510400,
+		"name" : "攀枝花",
+		"areaCode" : "0812",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 510500,
+		"name" : "泸州",
+		"areaCode" : "0830",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 510600,
+		"name" : "德阳",
+		"areaCode" : "0838",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 510700,
+		"name" : "绵阳",
+		"areaCode" : "0816",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "M"
+	},
+	{
+		"id" : 510800,
+		"name" : "广元",
+		"areaCode" : "0839",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 510900,
+		"name" : "遂宁",
+		"areaCode" : "0825",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 511000,
+		"name" : "内江",
+		"areaCode" : "0832",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 511100,
+		"name" : "乐山",
+		"areaCode" : "0833",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 511300,
+		"name" : "南充",
+		"areaCode" : "0817",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 511400,
+		"name" : "眉山",
+		"areaCode" : "028",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "M"
+	},
+	{
+		"id" : 511500,
+		"name" : "宜宾",
+		"areaCode" : "0831",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 511600,
+		"name" : "广安",
+		"areaCode" : "0826",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 511700,
+		"name" : "达州",
+		"areaCode" : "0818",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 511800,
+		"name" : "雅安",
+		"areaCode" : "0835",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 511900,
+		"name" : "巴中",
+		"areaCode" : "0827",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 512000,
+		"name" : "资阳",
+		"areaCode" : "028",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 513200,
+		"name" : "阿坝",
+		"areaCode" : "0837",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 513300,
+		"name" : "甘孜",
+		"areaCode" : "0836",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 513400,
+		"name" : "凉山",
+		"areaCode" : "0834",
+		"provinceId" : 510000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 520100,
+		"name" : "贵阳",
+		"areaCode" : "0851",
+		"provinceId" : 520000,
+		"isCapital" : 1,
+		"initial" : "G"
+	},
+	{
+		"id" : 520200,
+		"name" : "六盘水",
+		"areaCode" : "0858",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 520300,
+		"name" : "遵义",
+		"areaCode" : "0852",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 520400,
+		"name" : "安顺",
+		"areaCode" : "0853",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 520500,
+		"name" : "毕节",
+		"areaCode" : "0857",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 520600,
+		"name" : "铜仁",
+		"areaCode" : "0856",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 522300,
+		"name" : "黔西",
+		"areaCode" : "0859",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 522600,
+		"name" : "黔东",
+		"areaCode" : "0855",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 522700,
+		"name" : "黔南",
+		"areaCode" : "0854",
+		"provinceId" : 520000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 530100,
+		"name" : "昆明",
+		"areaCode" : "0871",
+		"provinceId" : 530000,
+		"isCapital" : 1,
+		"initial" : "K"
+	},
+	{
+		"id" : 530300,
+		"name" : "曲靖",
+		"areaCode" : "0874",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 530400,
+		"name" : "玉溪",
+		"areaCode" : "0877",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 530500,
+		"name" : "保山",
+		"areaCode" : "0875",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 530600,
+		"name" : "昭通",
+		"areaCode" : "0870",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 530700,
+		"name" : "丽江",
+		"areaCode" : "0888",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 530800,
+		"name" : "普洱",
+		"areaCode" : "0879",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 530900,
+		"name" : "临沧",
+		"areaCode" : "0883",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 532300,
+		"name" : "楚雄",
+		"areaCode" : "0878",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 532500,
+		"name" : "红河",
+		"areaCode" : "0873",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 532600,
+		"name" : "文山",
+		"areaCode" : "0876",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 532800,
+		"name" : "西双版纳",
+		"areaCode" : "0691",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 532900,
+		"name" : "大理",
+		"areaCode" : "0872",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 533100,
+		"name" : "德宏",
+		"areaCode" : "0692",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 533300,
+		"name" : "怒江",
+		"areaCode" : "0886",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 533400,
+		"name" : "迪庆",
+		"areaCode" : "0887",
+		"provinceId" : 530000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 540100,
+		"name" : "拉萨",
+		"areaCode" : "0891",
+		"provinceId" : 540000,
+		"isCapital" : 1,
+		"initial" : "L"
+	},
+	{
+		"id" : 540200,
+		"name" : "日喀则",
+		"areaCode" : "0892",
+		"provinceId" : 540000,
+		"isCapital" : 0,
+		"initial" : "R"
+	},
+	{
+		"id" : 540300,
+		"name" : "昌都",
+		"areaCode" : "0895",
+		"provinceId" : 540000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 540400,
+		"name" : "林芝",
+		"areaCode" : "0894",
+		"provinceId" : 540000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 540500,
+		"name" : "山南",
+		"areaCode" : "0893",
+		"provinceId" : 540000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 542400,
+		"name" : "那曲",
+		"areaCode" : "0896",
+		"provinceId" : 540000,
+		"isCapital" : 0,
+		"initial" : "N"
+	},
+	{
+		"id" : 542500,
+		"name" : "阿里",
+		"areaCode" : "0897",
+		"provinceId" : 540000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 610100,
+		"name" : "西安",
+		"areaCode" : "029",
+		"provinceId" : 610000,
+		"isCapital" : 1,
+		"initial" : "X"
+	},
+	{
+		"id" : 610200,
+		"name" : "铜川",
+		"areaCode" : "0919",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 610300,
+		"name" : "宝鸡",
+		"areaCode" : "0917",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 610400,
+		"name" : "咸阳",
+		"areaCode" : "029",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 610500,
+		"name" : "渭南",
+		"areaCode" : "0913",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 610600,
+		"name" : "延安",
+		"areaCode" : "0911",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 610700,
+		"name" : "汉中",
+		"areaCode" : "0916",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 610800,
+		"name" : "榆林",
+		"areaCode" : "0912",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 610900,
+		"name" : "安康",
+		"areaCode" : "0915",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 611000,
+		"name" : "商洛",
+		"areaCode" : "0914",
+		"provinceId" : 610000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 620100,
+		"name" : "兰州",
+		"areaCode" : "0931",
+		"provinceId" : 620000,
+		"isCapital" : 1,
+		"initial" : "L"
+	},
+	{
+		"id" : 620200,
+		"name" : "嘉峪关",
+		"areaCode" : "0937",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 620300,
+		"name" : "金昌",
+		"areaCode" : "0935",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 620400,
+		"name" : "白银",
+		"areaCode" : "0943",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 620500,
+		"name" : "天水",
+		"areaCode" : "0938",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 620600,
+		"name" : "武威",
+		"areaCode" : "0935",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 620700,
+		"name" : "张掖",
+		"areaCode" : "0936",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 620800,
+		"name" : "平凉",
+		"areaCode" : "0933",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "P"
+	},
+	{
+		"id" : 620900,
+		"name" : "酒泉",
+		"areaCode" : "0937",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "J"
+	},
+	{
+		"id" : 621000,
+		"name" : "庆阳",
+		"areaCode" : "0934",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "Q"
+	},
+	{
+		"id" : 621100,
+		"name" : "定西",
+		"areaCode" : "0932",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "D"
+	},
+	{
+		"id" : 621200,
+		"name" : "陇南",
+		"areaCode" : "0939",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 622900,
+		"name" : "临夏",
+		"areaCode" : "0930",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "L"
+	},
+	{
+		"id" : 623000,
+		"name" : "甘南",
+		"areaCode" : "0941",
+		"provinceId" : 620000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 630100,
+		"name" : "西宁",
+		"areaCode" : "0971",
+		"provinceId" : 630000,
+		"isCapital" : 1,
+		"initial" : "X"
+	},
+	{
+		"id" : 630200,
+		"name" : "海东",
+		"areaCode" : "0972",
+		"provinceId" : 630000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 632200,
+		"name" : "海北",
+		"areaCode" : "0970",
+		"provinceId" : 630000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 632300,
+		"name" : "黄南",
+		"areaCode" : "0973",
+		"provinceId" : 630000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 632500,
+		"name" : "海南",
+		"areaCode" : "0974",
+		"provinceId" : 630000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 632600,
+		"name" : "果洛",
+		"areaCode" : "0975",
+		"provinceId" : 630000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 632700,
+		"name" : "玉树",
+		"areaCode" : "0976",
+		"provinceId" : 630000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 632800,
+		"name" : "海西",
+		"areaCode" : "0979",
+		"provinceId" : 630000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 640100,
+		"name" : "银川",
+		"areaCode" : "0951",
+		"provinceId" : 640000,
+		"isCapital" : 1,
+		"initial" : "Y"
+	},
+	{
+		"id" : 640200,
+		"name" : "石嘴山",
+		"areaCode" : "0952",
+		"provinceId" : 640000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 640300,
+		"name" : "吴忠",
+		"areaCode" : "0953",
+		"provinceId" : 640000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 640400,
+		"name" : "固原",
+		"areaCode" : "0954",
+		"provinceId" : 640000,
+		"isCapital" : 0,
+		"initial" : "G"
+	},
+	{
+		"id" : 640500,
+		"name" : "中卫",
+		"areaCode" : "0955",
+		"provinceId" : 640000,
+		"isCapital" : 0,
+		"initial" : "Z"
+	},
+	{
+		"id" : 650100,
+		"name" : "乌鲁木齐",
+		"areaCode" : "0991",
+		"provinceId" : 650000,
+		"isCapital" : 1,
+		"initial" : "W"
+	},
+	{
+		"id" : 650200,
+		"name" : "克拉玛依",
+		"areaCode" : "0990",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "K"
+	},
+	{
+		"id" : 650400,
+		"name" : "吐鲁番",
+		"areaCode" : "0995",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 650500,
+		"name" : "哈密",
+		"areaCode" : "0902",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 652300,
+		"name" : "昌吉",
+		"areaCode" : "0994",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "C"
+	},
+	{
+		"id" : 652700,
+		"name" : "博尔塔拉",
+		"areaCode" : "0909",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 652800,
+		"name" : "巴音郭楞",
+		"areaCode" : "0996",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "B"
+	},
+	{
+		"id" : 652900,
+		"name" : "阿克苏",
+		"areaCode" : "0997",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 653000,
+		"name" : "克孜勒苏柯尔克孜",
+		"areaCode" : "0908",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "K"
+	},
+	{
+		"id" : 653100,
+		"name" : "喀什",
+		"areaCode" : "0998",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "K"
+	},
+	{
+		"id" : 653200,
+		"name" : "和田",
+		"areaCode" : "0903",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "H"
+	},
+	{
+		"id" : 654000,
+		"name" : "伊犁",
+		"areaCode" : "0999",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "Y"
+	},
+	{
+		"id" : 654200,
+		"name" : "塔城",
+		"areaCode" : "0901",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 654300,
+		"name" : "阿勒泰",
+		"areaCode" : "0906",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 659001,
+		"name" : "石河子",
+		"areaCode" : "0993",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "S"
+	},
+	{
+		"id" : 659002,
+		"name" : "阿拉尔",
+		"areaCode" : "0997",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "A"
+	},
+	{
+		"id" : 659003,
+		"name" : "图木舒克",
+		"areaCode" : "0998",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 659004,
+		"name" : "五家渠",
+		"areaCode" : "0994",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "W"
+	},
+	{
+		"id" : 659006,
+		"name" : "铁门关",
+		"areaCode" : "0996",
+		"provinceId" : 650000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 710000,
+		"name" : "台湾",
+		"areaCode" : "+886",
+		"provinceId" : 710000,
+		"isCapital" : 0,
+		"initial" : "T"
+	},
+	{
+		"id" : 810000,
+		"name" : "香港",
+		"areaCode" : "852",
+		"provinceId" : 810000,
+		"isCapital" : 0,
+		"initial" : "X"
+	},
+	{
+		"id" : 820000,
+		"name" : "澳门",
+		"areaCode" : "853",
+		"provinceId" : 820000,
+		"isCapital" : 0,
+		"initial" : "A"
+	}
+]
